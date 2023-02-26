@@ -22,6 +22,14 @@ function hideSection() {
 
 function toggleNavbar() {
     document.querySelector(".header").classList.toggle("active");
+sdfsdf
+sdf
+s
+df
+sdf
+sd
+f
+sdf
 }
 
 // Active Section
